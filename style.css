@@ -57,6 +57,13 @@ html {
 }
 
 .toggle-timer {position: relative;;}
+.toggle-flow {position: relative;;}
+.toggle-speed {position: relative;;}
+toggle-speed {
+    color: blue;
+}
+
+
 
 .toggle-btn::after {
     content: '';
